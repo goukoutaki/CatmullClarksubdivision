@@ -1,8 +1,8 @@
 Catmull Clark subdivision algorithm by g.koutaki 2018.3.15
 
-[References]
-https://rosettacode.org/wiki/Catmull%E2%80%93Clark_subdivision_surface
-http://web.cse.ohio-state.edu/~dey.8/course/784/note20.pdf
+[References]<br>
+-https://rosettacode.org/wiki/Catmull%E2%80%93Clark_subdivision_surface<br>
+-http://web.cse.ohio-state.edu/~dey.8/course/784/note20.pdf<br>
 
 
 [USAGE]
