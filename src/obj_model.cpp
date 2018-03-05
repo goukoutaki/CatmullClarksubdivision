@@ -77,9 +77,6 @@ void obj_t::load_obj(char *filename) {
 
 		if (buf[0] == 'v' && buf[1] == ' ') {
 			sscanf(&buf[1], "%lf %lf %lf", &x, &y, &z);
-			x = x / 3.0;
-			y = y / 3.0;
-			z = z / 3.0;
 			vs.push_back(point3d_t(x, -y, -z));
 		}
 		else if (buf[0] == 'f' && buf[1] == ' ') {

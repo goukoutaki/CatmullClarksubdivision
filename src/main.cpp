@@ -59,7 +59,7 @@ int main(int argc, char**argv){
 	obj.write_obj(outfile);
 	printf("finished vertex=%zd, face=%zd\n", obj.vs.size(), obj.fs.size());
 
-	getchar();
+	//getchar();
 
 	return 0;
 }
